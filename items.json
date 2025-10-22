@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dog Food - 1kg",
+    "description": "Premium nutrition for adult dogs",
+    "price": 450
+  },
+  {
+    "id": 2,
+    "name": "Cat Toy - Feather Wand",
+    "description": "Interactive toy for cats",
+    "price": 199
+  },
+  {
+    "id": 3,
+    "name": "Bird Cage - Small",
+    "description": "Safe and sturdy cage",
+    "price": 1200
+  }
+]

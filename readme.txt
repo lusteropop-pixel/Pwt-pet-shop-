@@ -1,0 +1,1 @@
+Place images here. This template includes placeholder UI only.
